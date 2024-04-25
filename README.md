@@ -28,9 +28,11 @@ I hope I can help the community and absorb new positive experiences with it!
 
 
 ## Conecte-se comigo!
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/Synth-ShellZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/carlos-eduardo-rosa-6b6a5b280)
-
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:crengenharia360@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/eeduardorosa/)
 
 
 ## GitHub Stats
@@ -62,3 +64,5 @@ I hope I can help the community and absorb new positive experiences with it!
 
 
 ## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Synth-ShellZ&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Synth-ShellZ/dio-lab-open-source)
