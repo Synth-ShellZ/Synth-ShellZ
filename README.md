@@ -66,4 +66,4 @@ I hope I can help the community and absorb new positive experiences with it!
 ## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Synth-ShellZ&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Synth-ShellZ/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Synth-ShellZ&repo=ebook-Cybernetic-Python-Phantom-of-NeuroCoders-in-Machine-Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Synth-ShellZ/ebook-Cybernetic-Python-Phantom-of-NeuroCoders-in-Machine-Learning))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Synth-ShellZ&repo=ebook-Cybernetic-Python-Phantom-of-NeuroCoders-in-Machine-Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Synth-ShellZ/ebook-Cybernetic-Python-Phantom-of-NeuroCoders-in-Machine-Learning)
